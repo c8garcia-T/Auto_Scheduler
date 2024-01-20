@@ -15,7 +15,7 @@
     12:00: None              T_A-CN-RM5      | T_X-CN-RM4
     13:00  T3-CN-RM3         T_B-CN-RM9     | T_C- CN-RM1
     14:00   T3-CN-RM3        T_D-CN-RM10    | None
-    14:00           T_H-CN-RM3               | T_F - CN-RM4
+    15:00           T_H-CN-RM3               | T_F - CN-RM4
 
 Abbreviations
 T = Teacher
