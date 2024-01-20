@@ -1,2 +1,2 @@
-# Project_Initialization_Template
-The essentials
+# Objective
+Assign Classrooms to (Teachers / Students) based on certain constraints. 
