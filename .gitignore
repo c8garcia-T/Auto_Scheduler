@@ -1,3 +1,7 @@
+# My Ignore Files:
+data/*
+.DS_Store
+# Default Ignore File:
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
